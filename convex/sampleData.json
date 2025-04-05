@@ -5,7 +5,6 @@
       "capacity": 300,
       "location": "The ExCel London, Royal Victoria Dock, London, United Kingdom",
       "eventDate": 1747008000000,
-      "eventTime": 36000000,
       "userId": "user_001"
     },
     {
@@ -14,7 +13,6 @@
       "capacity": 50,
       "location": "Zilker Metropolitan Park, Austin, Texas, USA",
       "eventDate": 1749408000000,
-      "eventTime": 66600000,
       "userId": "user_002"
     },
     {
@@ -23,7 +21,6 @@
       "capacity": 1000,
       "location": "Brooklyn Bowl, 61 Wythe Ave, Brooklyn, New York, USA",
       "eventDate": 1752960000000,
-      "eventTime": 46800000,
       "userId": "user_003"
     },
     {
@@ -32,7 +29,6 @@
       "capacity": 150,
       "location": "Impact Hub Seattle, 220 2nd Ave S, Seattle, Washington, USA",
       "eventDate": 1748889600000,
-      "eventTime": 61200000,
       "userId": "user_004"
     },
     {
@@ -41,7 +37,6 @@
       "capacity": 20,
       "location": "Le Cordon Bleu, 8 Rue Léon Delhomme, 75015 Paris, France",
       "eventDate": 1750185600000,
-      "eventTime": 32400000,
       "userId": "user_005"
     },
     {
@@ -50,7 +45,6 @@
       "capacity": 500,
       "location": "Milan Fashion Week, Via Bergognone 34, Milan, Italy",
       "eventDate": 1751587200000,
-      "eventTime": 43200000,
       "userId": "user_006"
     },
     {
@@ -59,7 +53,6 @@
       "capacity": 350,
       "location": "Palais des Festivals et des Congrès, 1 Boulevard de la Croisette, Cannes, France",
       "eventDate": 1753189200000,
-      "eventTime": 57600000,
       "userId": "user_007"
     },
     {
@@ -68,7 +61,6 @@
       "capacity": 80000,
       "location": "Lusail Iconic Stadium, Lusail, Qatar",
       "eventDate": 1754592000000,
-      "eventTime": 43200000,
       "userId": "user_008"
     },
     {
@@ -77,7 +69,6 @@
       "capacity": 1000,
       "location": "Rijksmuseum, Museumstraat 1, 1071 XX Amsterdam, Netherlands",
       "eventDate": 1756406400000,
-      "eventTime": 28800000,
       "userId": "user_009"
     },
     {
@@ -86,7 +77,6 @@
       "capacity": 500,
       "location": "Fira de Barcelona, Av. de la Reina Maria Cristina, s/n, 08004 Barcelona, Spain",
       "eventDate": 1757520000000,
-      "eventTime": 39600000,
       "userId": "user_010"
     },
     {
@@ -95,7 +85,6 @@
       "capacity": 200,
       "location": "Grimaldi Forum Monaco, 10 Av. Princesse Grace, 98000 Monaco",
       "eventDate": 1759125600000,
-      "eventTime": 48600000,
       "userId": "user_011"
     },
     {
@@ -104,7 +93,6 @@
       "capacity": 300,
       "location": "Ueno Park, 5-20 Uenokoen, Taito City, Tokyo, Japan",
       "eventDate": 1759420800000,
-      "eventTime": 61200000,
       "userId": "user_012"
     },
     {
@@ -113,7 +101,6 @@
       "capacity": 400,
       "location": "Coca-Cola Arena, City Walk, Dubai, United Arab Emirates",
       "eventDate": 1760812800000,
-      "eventTime": 48600000,
       "userId": "user_013"
     },
     {
@@ -122,7 +109,6 @@
       "capacity": 800,
       "location": "Southbank Centre, Belvedere Rd, London, SE1 8XX, United Kingdom",
       "eventDate": 1762320000000,
-      "eventTime": 39600000,
       "userId": "user_014"
     },
     {
@@ -131,7 +117,6 @@
       "capacity": 100,
       "location": "Christie’s Auction House, 20 Rockefeller Plaza, New York, NY 10169, USA",
       "eventDate": 1763721600000,
-      "eventTime": 50400000,
       "userId": "user_015"
     }
   ]
