@@ -50,7 +50,7 @@ function SearchBar() {
             ref={containerRef}
             className="relative flex items-center justify-end -translate-x-4"
         >
-            <div className={`relative flex items-center ${isExpanded ? 'w-full sm:w-64 md:w-80' : 'w-10'} h-10 transition-all duration-300 ease-in-out`}>
+            <div className={`relative flex items-center -translate-x-5 ${isExpanded ? 'w-full sm:w-64 md:w-80' : 'w-10'} h-10 transition-all duration-300 ease-in-out`}>
                 {!isExpanded ? (
                     <button
                         type="button"
