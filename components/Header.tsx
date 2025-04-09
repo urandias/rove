@@ -37,7 +37,7 @@ function Header() {
                   </button>
                 </Link>
                 <Link href="/tickets">
-                  <button className="bg-white text-gray-800 px-3 py-1.5 text-sm rounded-full hover:bg-[#d9d9d9] transition border border-gray-300 mr-3 font-bold">
+                  <button className="bg-white text-gray-800 px-3 py-1.5 text-sm rounded-full hover:bg-gray-200 transition border border-gray-300 mr-3 font-bold">
                     My Tickets
                   </button>
                 </Link>
@@ -51,7 +51,7 @@ function Header() {
             </SignedIn>
             <SignedOut>
               <SignInButton mode="modal">
-                <button className="bg-[#d9d9d9] text-black px-3 py-1.5 text-sm rounded-full border border-[#d9d9d9]transition-colors duration-300 hover:bg-[#bfbfbf] font-bold">
+                <button className="bg-white text-black px-3 py-1.5 text-sm rounded-full border border-[#d9d9d9]transition-colors duration-300 hover:bg-gray-200 font-bold">
                   Sign In
                 </button>
               </SignInButton>
@@ -68,7 +68,7 @@ function Header() {
             </button>
           </Link>
           <Link href="/tickets" className="flex-1">
-            <button className="w-full bg-white text-gray-800 px-3 py-1.5 text-sm rounded-full hover:bg-[#d9d9d9] transition border border-[#d9d9d9] font-bold">
+            <button className="w-full bg-white text-gray-800 px-3 py-1.5 text-sm rounded-full hover:bg-white transition border border-gray-200 font-bold">
               My Tickets
             </button>
           </Link>

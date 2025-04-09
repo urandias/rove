@@ -55,7 +55,7 @@ function SearchBar() {
                     <button
                         type="button"
                         onClick={toggleSearchBar}
-                        className="flex items-center justify-center w-10 h-10 rounded-full bg-[#d9d9d9] transition-all duration-300 ease-in-out"
+                        className="flex items-center justify-center w-10 h-10 rounded-full bg-white transition-all duration-300 ease-in-out"
                         aria-label="Open search"
                     >
                         <Search className="text-black w-5 h-5" />
@@ -67,7 +67,7 @@ function SearchBar() {
                             type="text"
                             name="q"
                             placeholder="Search events..."
-                            className="h-10 py-3 px-4 pl-10 bg-[#d9d9d9] rounded-full border shadow-sm focus:outline-none focus:ring-2 focus:ring-[#4056f4] focus:border-transparent w-full transition-all duration-300 ease-in-out"
+                            className="h-10 py-3 px-4 pl-10 bg-white rounded-full border shadow-sm focus:outline-none focus:ring-2 focus:ring-[#4056f4] focus:border-transparent w-full transition-all duration-300 ease-in-out"
                         />
                         <button
                             type="button"

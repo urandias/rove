@@ -26,7 +26,7 @@ function EventList() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <div className="flex items-center justify-between mb-8">
+        <div className="flex items-center justify-between mb-6">
             <div>
                 <h1 className="text-3xl font-bold text-black">Upcoming Events</h1>
                 <p className="text-black">Discover... book... Enjoy</p>
