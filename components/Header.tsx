@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import logo from "../images/logo.png";
+import logo from "../images/logo.svg";
 import {
   SignedIn,
   SignedOut,
@@ -21,7 +21,7 @@ function Header() {
               alt="logo"
               width={100}
               height={100}
-              className="w-24 lg:w-25 -translate-x-2.5 mr-12"
+              className="w-24 lg:w-25 -translate-x-2.5 mr-12 -translate-y-0.75"
             />
           </Link>
           <div className="-translate-x-6 pl-2">
