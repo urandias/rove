@@ -1,123 +1,122 @@
 [
-    {
-      "eventName": "Tech Innovators Summit 2025",
-      "description": "A gathering of top tech minds to discuss innovation, AI, and the future of software development.",
-      "capacity": 300,
-      "location": "The ExCel London, Royal Victoria Dock, London, United Kingdom",
-      "eventDate": 1747008000000,
-      "userId": "user_001"
-    },
-    {
-      "eventName": "Sunset Yoga at the Park",
-      "description": "Join us for a relaxing yoga session at golden hour in the city park.",
-      "capacity": 50,
-      "location": "Zilker Metropolitan Park, Austin, Texas, USA",
-      "eventDate": 1749408000000,
-      "userId": "user_002"
-    },
-    {
-      "eventName": "Indie Music Fest",
-      "description": "A full-day event showcasing local indie bands and artists. Food trucks, art booths, and more!",
-      "capacity": 1000,
-      "location": "Brooklyn Bowl, 61 Wythe Ave, Brooklyn, New York, USA",
-      "eventDate": 1752960000000,
-      "userId": "user_003"
-    },
-    {
-      "eventName": "Startup Pitch Night",
-      "description": "Early-stage startups pitch to investors and industry leaders. Great networking opportunity!",
-      "capacity": 150,
-      "location": "Impact Hub Seattle, 220 2nd Ave S, Seattle, Washington, USA",
-      "eventDate": 1748889600000,
-      "userId": "user_004"
-    },
-    {
-      "eventName": "Baking Masterclass: French Pastries",
-      "description": "Learn how to make classic French pastries from a professional pastry chef.",
-      "capacity": 20,
-      "location": "Le Cordon Bleu, 8 Rue Léon Delhomme, 75015 Paris, France",
-      "eventDate": 1750185600000,
-      "userId": "user_005"
-    },
-    {
-      "eventName": "Global Fashion Week 2025",
-      "description": "A glamorous showcase of the latest trends in fashion from the world's top designers.",
-      "capacity": 500,
-      "location": "Milan Fashion Week, Via Bergognone 34, Milan, Italy",
-      "eventDate": 1751587200000,
-      "userId": "user_006"
-    },
-    {
-      "eventName": "International Film Festival 2025",
-      "description": "A celebration of cinema, featuring screenings from filmmakers around the world.",
-      "capacity": 350,
-      "location": "Palais des Festivals et des Congrès, 1 Boulevard de la Croisette, Cannes, France",
-      "eventDate": 1753189200000,
-      "userId": "user_007"
-    },
-    {
-      "eventName": "World Cup 2025 - Final Match",
-      "description": "The thrilling final match of the 2025 World Cup. Watch the world's best teams battle for the championship.",
-      "capacity": 80000,
-      "location": "Lusail Iconic Stadium, Lusail, Qatar",
-      "eventDate": 1754592000000,
-      "userId": "user_008"
-    },
-    {
-      "eventName": "Art Expo 2025",
-      "description": "The largest art exhibition of the year, featuring renowned artists and their masterpieces.",
-      "capacity": 1000,
-      "location": "Rijksmuseum, Museumstraat 1, 1071 XX Amsterdam, Netherlands",
-      "eventDate": 1756406400000,
-      "userId": "user_009"
-    },
-    {
-      "eventName": "Foodie Festival 2025",
-      "description": "A weekend of delicious food from around the world, with live cooking demonstrations and tastings.",
-      "capacity": 500,
-      "location": "Fira de Barcelona, Av. de la Reina Maria Cristina, s/n, 08004 Barcelona, Spain",
-      "eventDate": 1757520000000,
-      "userId": "user_010"
-    },
-    {
-      "eventName": "Luxury Car Exhibition 2025",
-      "description": "An exclusive exhibition of the most luxurious cars from the world's top brands.",
-      "capacity": 200,
-      "location": "Grimaldi Forum Monaco, 10 Av. Princesse Grace, 98000 Monaco",
-      "eventDate": 1759125600000,
-      "userId": "user_011"
-    },
-    {
-      "eventName": "Tokyo Cherry Blossom Festival 2025",
-      "description": "A beautiful celebration of Japan's cherry blossoms with traditional performances and picnics.",
-      "capacity": 300,
-      "location": "Ueno Park, 5-20 Uenokoen, Taito City, Tokyo, Japan",
-      "eventDate": 1759420800000,
-      "userId": "user_012"
-    },
-    {
-      "eventName": "Dubai International Music Festival",
-      "description": "A music festival in Dubai showcasing international and local musical talents.",
-      "capacity": 400,
-      "location": "Coca-Cola Arena, City Walk, Dubai, United Arab Emirates",
-      "eventDate": 1760812800000,
-      "userId": "user_013"
-    },
-    {
-      "eventName": "London Food and Drink Festival 2025",
-      "description": "A gastronomic journey through the best food and drink London has to offer.",
-      "capacity": 800,
-      "location": "Southbank Centre, Belvedere Rd, London, SE1 8XX, United Kingdom",
-      "eventDate": 1762320000000,
-      "userId": "user_014"
-    },
-    {
-      "eventName": "Global Art Auction 2025",
-      "description": "An exclusive auction of rare and exquisite works of art from across the globe.",
-      "capacity": 100,
-      "location": "Christie’s Auction House, 20 Rockefeller Plaza, New York, NY 10169, USA",
-      "eventDate": 1763721600000,
-      "userId": "user_015"
-    }
-  ]
-  
+  {
+    "eventName": "Tech Innovators Summit 2025",
+    "description": "A gathering of top tech minds to discuss innovation, AI, and the future of software development.",
+    "capacity": 300,
+    "location": "The ExCel London, Royal Victoria Dock, London, United Kingdom",
+    "eventDate": 1747008000000,
+    "userId": "user_001"
+  },
+  {
+    "eventName": "Indie Music Fest",
+    "description": "A full-day event showcasing local indie bands and artists. Food trucks, art booths, and more!",
+    "capacity": 1000,
+    "location": "Brooklyn Bowl, 61 Wythe Ave, Brooklyn, New York, USA",
+    "eventDate": 1752960000000,
+    "userId": "user_003"
+  },
+  {
+    "eventName": "Baking Masterclass: French Pastries",
+    "description": "Learn how to make classic French pastries from a professional pastry chef.",
+    "capacity": 20,
+    "location": "Le Cordon Bleu, 8 Rue Léon Delhomme, 75015 Paris, France",
+    "eventDate": 1750185600000,
+    "userId": "user_005"
+  },
+  {
+    "eventName": "Global Fashion Week 2025",
+    "description": "A glamorous showcase of the latest trends in fashion from the world's top designers.",
+    "capacity": 500,
+    "location": "Milan Fashion Week, Via Bergognone 34, Milan, Italy",
+    "eventDate": 1751587200000,
+    "userId": "user_006"
+  },
+  {
+    "eventName": "World Cup 2025 - Final Match",
+    "description": "The thrilling final match of the 2025 World Cup. Watch the world's best teams battle for the championship.",
+    "capacity": 80000,
+    "location": "Lusail Iconic Stadium, Lusail, Qatar",
+    "eventDate": 1754592000000,
+    "userId": "user_008"
+  },
+  {
+    "eventName": "Art Expo 2025",
+    "description": "The largest art exhibition of the year, featuring renowned artists and their masterpieces.",
+    "capacity": 1000,
+    "location": "Rijksmuseum, Museumstraat 1, 1071 XX Amsterdam, Netherlands",
+    "eventDate": 1756406400000,
+    "userId": "user_009"
+  },
+  {
+    "eventName": "Foodie Festival 2025",
+    "description": "A weekend of delicious food from around the world, with live cooking demonstrations and tastings.",
+    "capacity": 500,
+    "location": "Fira de Barcelona, Av. de la Reina Maria Cristina, s/n, 08004 Barcelona, Spain",
+    "eventDate": 1757520000000,
+    "userId": "user_010"
+  },
+  {
+    "eventName": "Tokyo Cherry Blossom Festival 2025",
+    "description": "A beautiful celebration of Japan's cherry blossoms with traditional performances and picnics.",
+    "capacity": 300,
+    "location": "Ueno Park, 5-20 Uenokoen, Taito City, Tokyo, Japan",
+    "eventDate": 1759420800000,
+    "userId": "user_012"
+  },
+  {
+    "eventName": "Dubai International Music Festival",
+    "description": "A music festival in Dubai showcasing international and local musical talents.",
+    "capacity": 400,
+    "location": "Coca-Cola Arena, City Walk, Dubai, United Arab Emirates",
+    "eventDate": 1760812800000,
+    "userId": "user_013"
+  },
+  {
+    "eventName": "Global Art Auction 2025",
+    "description": "An exclusive auction of rare and exquisite works of art from across the globe.",
+    "capacity": 100,
+    "location": "Christie’s Auction House, 20 Rockefeller Plaza, New York, NY 10169, USA",
+    "eventDate": 1763721600000,
+    "userId": "user_015"
+  },
+  {
+    "eventName": "Blockchain Summit 2024",
+    "description": "A summit exploring the latest advances and challenges in blockchain technology.",
+    "capacity": 250,
+    "location": "Silicon Valley Conference Center, San Jose, California, USA",
+    "eventDate": 1729056000000,
+    "userId": "user_016"
+  },
+  {
+    "eventName": "Retro Gaming Expo 2024",
+    "description": "A celebration of classic video games and arcade culture, with playable exhibits and memorabilia.",
+    "capacity": 300,
+    "location": "Los Angeles Convention Center, Los Angeles, California, USA",
+    "eventDate": 1727779200000,
+    "userId": "user_017"
+  },
+  {
+    "eventName": "Vintage Car Rally 2024",
+    "description": "Showcase of vintage and classic cars with a scenic rally route.",
+    "capacity": 150,
+    "location": "Monte Carlo, Monaco",
+    "eventDate": 1728172800000,
+    "userId": "user_018"
+  },
+  {
+    "eventName": "Classical Music Concert 2024",
+    "description": "An evening of timeless classical compositions performed by world-renowned musicians.",
+    "capacity": 500,
+    "location": "Carnegie Hall, New York, NY, USA",
+    "eventDate": 1730000000000,
+    "userId": "user_019"
+  },
+  {
+    "eventName": "Environmental Conference 2024",
+    "description": "A conference addressing environmental challenges and sustainability practices.",
+    "capacity": 400,
+    "location": "Eco Center, Berlin, Germany",
+    "eventDate": 1731000000000,
+    "userId": "user_020"
+  }
+]
