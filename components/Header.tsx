@@ -51,7 +51,7 @@ function Header() {
             </SignedIn>
             <SignedOut>
               <SignInButton mode="modal">
-                <button className="bg-white text-black px-3 py-1.5 text-sm rounded-full border border-[#d9d9d9]transition-colors duration-300 hover:bg-gray-300 font-bold">
+                <button className="bg-[#d62839] text-white px-3 py-1.5 text-sm rounded-full border border-[#d62839] transition-colors duration-300 hover:bg-red-700 font-bold">
                   Sign In
                 </button>
               </SignInButton>
