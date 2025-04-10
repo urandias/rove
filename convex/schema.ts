@@ -7,7 +7,7 @@ export default defineSchema({
         description: v.string(),
         location: v.string(),
         eventDate: v.number(),
-        // price: v.number(), // need to add price in the sampleData to use this 
+        price: v.number(),
         capacity: v.number(),
         userId: v.string(),
         imageStorageId: v.optional(v.id("_storage")),

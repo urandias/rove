@@ -2,22 +2,25 @@
   {
     "eventName": "Tech Innovators Summit 2025",
     "description": "A gathering of top tech minds to discuss innovation, AI, and the future of software development.",
+    "price": 299.99,
     "capacity": 300,
-    "location": "The ExCel London, Royal Victoria Dock, London, United Kingdom",
+    "location": "The ExCel London, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, United Kingdom",
     "eventDate": 1747008000000,
     "userId": "user_001"
   },
   {
     "eventName": "Indie Music Fest",
     "description": "A full-day event showcasing local indie bands and artists. Food trucks, art booths, and more!",
+    "price": 45.00,
     "capacity": 1000,
-    "location": "Brooklyn Bowl, 61 Wythe Ave, Brooklyn, New York, USA",
+    "location": "Brooklyn Bowl, 61 Wythe Ave, Brooklyn, NY 11249, USA",
     "eventDate": 1752960000000,
     "userId": "user_003"
   },
   {
     "eventName": "Baking Masterclass: French Pastries",
     "description": "Learn how to make classic French pastries from a professional pastry chef.",
+    "price": 120.00,
     "capacity": 20,
     "location": "Le Cordon Bleu, 8 Rue Léon Delhomme, 75015 Paris, France",
     "eventDate": 1750185600000,
@@ -26,22 +29,25 @@
   {
     "eventName": "Global Fashion Week 2025",
     "description": "A glamorous showcase of the latest trends in fashion from the world's top designers.",
+    "price": 350.00,
     "capacity": 500,
-    "location": "Milan Fashion Week, Via Bergognone 34, Milan, Italy",
+    "location": "Superstudio Più, Via Tortona 27, 20144 Milan, Italy",
     "eventDate": 1751587200000,
     "userId": "user_006"
   },
   {
-    "eventName": "World Cup 2025 - Final Match",
-    "description": "The thrilling final match of the 2025 World Cup. Watch the world's best teams battle for the championship.",
-    "capacity": 80000,
-    "location": "Lusail Iconic Stadium, Lusail, Qatar",
-    "eventDate": 1754592000000,
-    "userId": "user_008"
+    "eventName": "Community Park Cleanup",
+    "description": "Join fellow community members in cleaning up our local park. Equipment provided and refreshments served after.",
+    "price": 0.00,
+    "capacity": 100,
+    "location": "Central Park, East 72nd Street Entrance, New York, NY 10021, USA",
+    "eventDate": 1746144000000,
+    "userId": "user_007"
   },
   {
     "eventName": "Art Expo 2025",
     "description": "The largest art exhibition of the year, featuring renowned artists and their masterpieces.",
+    "price": 0.00,
     "capacity": 1000,
     "location": "Rijksmuseum, Museumstraat 1, 1071 XX Amsterdam, Netherlands",
     "eventDate": 1756406400000,
@@ -50,6 +56,7 @@
   {
     "eventName": "Foodie Festival 2025",
     "description": "A weekend of delicious food from around the world, with live cooking demonstrations and tastings.",
+    "price": 65.00,
     "capacity": 500,
     "location": "Fira de Barcelona, Av. de la Reina Maria Cristina, s/n, 08004 Barcelona, Spain",
     "eventDate": 1757520000000,
@@ -58,14 +65,16 @@
   {
     "eventName": "Tokyo Cherry Blossom Festival 2025",
     "description": "A beautiful celebration of Japan's cherry blossoms with traditional performances and picnics.",
+    "price": 0.00,
     "capacity": 300,
-    "location": "Ueno Park, 5-20 Uenokoen, Taito City, Tokyo, Japan",
-    "eventDate": 1759420800000,
+    "location": "Ueno Park, 5-20 Uenokoen, Taito City, Tokyo 110-0007, Japan",
+    "eventDate": 1712016000000,
     "userId": "user_012"
   },
   {
     "eventName": "Dubai International Music Festival",
     "description": "A music festival in Dubai showcasing international and local musical talents.",
+    "price": 120.00,
     "capacity": 400,
     "location": "Coca-Cola Arena, City Walk, Dubai, United Arab Emirates",
     "eventDate": 1760812800000,
@@ -74,49 +83,100 @@
   {
     "eventName": "Global Art Auction 2025",
     "description": "An exclusive auction of rare and exquisite works of art from across the globe.",
+    "price": 500.00,
     "capacity": 100,
-    "location": "Christie’s Auction House, 20 Rockefeller Plaza, New York, NY 10169, USA",
+    "location": "Christie's Auction House, 20 Rockefeller Plaza, New York, NY 10020, USA",
     "eventDate": 1763721600000,
     "userId": "user_015"
   },
   {
     "eventName": "Blockchain Summit 2024",
     "description": "A summit exploring the latest advances and challenges in blockchain technology.",
+    "price": 275.50,
     "capacity": 250,
-    "location": "Silicon Valley Conference Center, San Jose, California, USA",
-    "eventDate": 1729056000000,
+    "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113, USA",
+    "eventDate": 1714608000000,
     "userId": "user_016"
   },
   {
     "eventName": "Retro Gaming Expo 2024",
     "description": "A celebration of classic video games and arcade culture, with playable exhibits and memorabilia.",
+    "price": 25.00,
     "capacity": 300,
-    "location": "Los Angeles Convention Center, Los Angeles, California, USA",
-    "eventDate": 1727779200000,
+    "location": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015, USA",
+    "eventDate": 1716422400000,
     "userId": "user_017"
-  },
-  {
-    "eventName": "Vintage Car Rally 2024",
-    "description": "Showcase of vintage and classic cars with a scenic rally route.",
-    "capacity": 150,
-    "location": "Monte Carlo, Monaco",
-    "eventDate": 1728172800000,
-    "userId": "user_018"
-  },
-  {
-    "eventName": "Classical Music Concert 2024",
-    "description": "An evening of timeless classical compositions performed by world-renowned musicians.",
-    "capacity": 500,
-    "location": "Carnegie Hall, New York, NY, USA",
-    "eventDate": 1730000000000,
-    "userId": "user_019"
   },
   {
     "eventName": "Environmental Conference 2024",
     "description": "A conference addressing environmental challenges and sustainability practices.",
+    "price": 0.00,
     "capacity": 400,
-    "location": "Eco Center, Berlin, Germany",
-    "eventDate": 1731000000000,
+    "location": "EUREF-Campus, Torgauer Str. 12-15, 10829 Berlin, Germany",
+    "eventDate": 1723593600000,
     "userId": "user_020"
+  },
+  {
+    "eventName": "Sydney Opera House Ballet Gala",
+    "description": "A special gala performance featuring world-class ballet dancers in Australia's iconic venue.",
+    "price": 195.00,
+    "capacity": 2000,
+    "location": "Sydney Opera House, Bennelong Point, Sydney NSW 2000, Australia",
+    "eventDate": 1745798400000,
+    "userId": "user_021"
+  },
+  {
+    "eventName": "Public Stargazing Night",
+    "description": "Join amateur astronomers to observe stars, planets, and celestial bodies with professional telescopes.",
+    "price": 0.00,
+    "capacity": 75,
+    "location": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027, USA",
+    "eventDate": 1744502400000,
+    "userId": "user_022"
+  },
+  {
+    "eventName": "Cape Town Wine Festival",
+    "description": "Celebrate South Africa's finest wines with tastings, pairings, and vineyard tours.",
+    "price": 75.00,
+    "capacity": 350,
+    "location": "V&A Waterfront, 19 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+    "eventDate": 1744416000000,
+    "userId": "user_023"
+  },
+  {
+    "eventName": "Nordic Light Photography Workshop",
+    "description": "Learn to capture the stunning Nordic landscapes and northern lights with professional photographers.",
+    "price": 599.99,
+    "capacity": 15,
+    "location": "Radisson Blu Polar Hotel, P.O. Box 500, 9171 Longyearbyen, Svalbard, Norway",
+    "eventDate": 1748217600000,
+    "userId": "user_024"
+  },
+  {
+    "eventName": "Community Garden Planting Day",
+    "description": "Join neighbors to plant flowers and vegetables in the community garden. Tools and refreshments provided.",
+    "price": 0.00,
+    "capacity": 50,
+    "location": "Victoria Community Garden, 380 Victoria St, Darlinghurst NSW 2010, Australia",
+    "eventDate": 1738800000000,
+    "userId": "user_025"
+  },
+  {
+    "eventName": "Free Yoga in the Park",
+    "description": "Weekly outdoor yoga session open to all skill levels. Bring your own mat and water bottle.",
+    "price": 0.00,
+    "capacity": 50,
+    "location": "Parque del Retiro, Plaza de la Independencia, 7, 28001 Madrid, Spain",
+    "eventDate": 1743292800000,
+    "userId": "user_026"
+  },
+  {
+    "eventName": "International Book Exchange",
+    "description": "Bring a book, take a book! Meet fellow readers and discover new titles at this free community event.",
+    "price": 0.00,
+    "capacity": 200,
+    "location": "Vancouver Public Library, 350 W Georgia St, Vancouver, BC V6B 6B1, Canada",
+    "eventDate": 1742688000000,
+    "userId": "user_027"
   }
 ]
